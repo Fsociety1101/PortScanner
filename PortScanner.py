@@ -1,6 +1,7 @@
 #Version 1.0
 #Created by Fsociety10
 #https://github.com/Fsociety1101/
+#You have to run it with python 3
 
 #!/usr/bin/env python
 
