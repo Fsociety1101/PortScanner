@@ -4,4 +4,4 @@
 from distutils.core import setup
 import subprocess
 
-subprocess.call('pip install datetime pyfiglet termcolor colorama', shell=True)
+subprocess.call('pip3 install datetime pyfiglet termcolor colorama', shell=True)
