@@ -13,6 +13,6 @@ How to open it:
 
 
 cd PortScanner /
-python setup.py /
-python PortScanner /
-Put you ip address /
+python3 setup.py /
+python3 PortScanner /
+Put the ip address you want to scan  /
