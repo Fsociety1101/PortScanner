@@ -1,5 +1,5 @@
 # PortScanner
-It is a port scanner for an ip address. This is version 1.0, hence it will be a little slow.
+It is a port scanner for an ip address. This is version 1.0, hence it will be a little slow. You have to run the program with python 3
 
 
 
